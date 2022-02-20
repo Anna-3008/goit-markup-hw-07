@@ -1,0 +1,19 @@
+.page-header {
+  border-bottom: 1px solid var(--border-color);
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.logo {
+  color: var(--accent-color);
+  font-family: Raleway, sans;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+
+.logo-header {
+  color: var(--primary-text-color);
+}
