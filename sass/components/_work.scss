@@ -2,14 +2,14 @@
   display: flex;
 }
 
-.work-element {
+.work__element {
   position: relative;
   &:not(:last-child) {
     margin-right: 30px;
   }
 }
 
-.work-text {
+.work__text {
   position: absolute;
   bottom: 0;
   left: 0;

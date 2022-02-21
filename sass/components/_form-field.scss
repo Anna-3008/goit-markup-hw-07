@@ -76,7 +76,7 @@
   justify-content: center;
   align-items: center;
   margin-top: 20px;
-  & input {
+  input {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -89,7 +89,7 @@
     clip: rect(0 0 0 0);
     overflow: hidden;
   }
-  & label {
+  label {
     display: flex;
     align-items: center;
   }
